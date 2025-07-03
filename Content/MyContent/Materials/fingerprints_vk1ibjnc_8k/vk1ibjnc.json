@@ -1,0 +1,316 @@
+{
+  "assetCategories": {
+    "imperfection": {
+      "fingerprint": {}
+    }
+  },
+  "averageColor": "#000000",
+  "categories": [
+    "surface",
+    "imperfections"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "environment": {
+    "biome": "undefined",
+    "region": "undefined"
+  },
+  "highest_available_res": 16384,
+  "id": "vk1ibjnc",
+  "json": {
+    "contentLength": 6710,
+    "uri": "vk1ibjnc.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#7E7E7E",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 239574146,
+      "maxIntensity": 181,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Gloss",
+      "physicalSize": "0.5x0.5",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "vk1ibjnc_8K_Gloss.exr"
+    },
+    {
+      "averageColor": "#7E7E7E",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 56572323,
+      "maxIntensity": 181,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Gloss",
+      "physicalSize": "0.5x0.5",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "vk1ibjnc_8K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#242424",
+      "bitDepth": 16,
+      "colorSpace": "Linear",
+      "contentLength": 132451209,
+      "maxIntensity": 168,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Mask",
+      "physicalSize": "0.5x0.5",
+      "resolution": "8192x8192",
+      "type": "mask",
+      "uri": "vk1ibjnc_8K_Mask.exr"
+    },
+    {
+      "averageColor": "#242424",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 57328467,
+      "maxIntensity": 168,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Mask",
+      "physicalSize": "0.5x0.5",
+      "resolution": "8192x8192",
+      "type": "mask",
+      "uri": "vk1ibjnc_8K_Mask.jpg"
+    },
+    {
+      "averageColor": "#818181",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 233498731,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 74,
+      "name": "Roughness",
+      "physicalSize": "0.5x0.5",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "vk1ibjnc_8K_Roughness.exr"
+    },
+    {
+      "averageColor": "#818181",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 56348550,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 74,
+      "name": "Roughness",
+      "physicalSize": "0.5x0.5",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "vk1ibjnc_8K_Roughness.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "0.5x0.5 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": true
+    },
+    {
+      "key": "tiling_directions",
+      "name": "Tiling Directions",
+      "value": [
+        "x",
+        "y"
+      ]
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "32768 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Fingerprints",
+  "pack": null,
+  "physicalSize": null,
+  "points": 2,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 151460,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "vk1ibjnc_Grid_360.png"
+      },
+      {
+        "contentLength": 205241,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "vk1ibjnc_Grid_420.png"
+      },
+      {
+        "contentLength": 597164,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "vk1ibjnc_Grid_720.png"
+      },
+      {
+        "contentLength": 814876,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "vk1ibjnc_Grid_840.png"
+      },
+      {
+        "contentLength": 1591932,
+        "resolution": "1440x768",
+        "tags": [
+          "preview"
+        ],
+        "uri": "vk1ibjnc_Popup_1440.png"
+      },
+      {
+        "contentLength": 2973782,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "vk1ibjnc_Popup_1920.png"
+      },
+      {
+        "contentLength": 6292893,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "vk1ibjnc_Popup_2880.png"
+      },
+      {
+        "contentLength": 11888943,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "vk1ibjnc_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-16 21:50:28",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": false,
+  "revision": 0,
+  "semanticTags": {
+    "asset_type": "imperfection",
+    "contains": [
+      "fingerprints",
+      "dirt",
+      "print",
+      "stains",
+      "marks",
+      "surface imperfection"
+    ],
+    "descriptive": [
+      "dirty",
+      "dusty",
+      "stained"
+    ],
+    "environment": [
+      "urban",
+      "rural"
+    ],
+    "industry": [
+      "archviz",
+      "games",
+      "VFX"
+    ],
+    "maxSize": 0.5,
+    "minSize": 0.5,
+    "name": "Fingerprints",
+    "state": [
+      "old"
+    ],
+    "subject_matter": "manmade",
+    "theme": [
+      "archviz"
+    ]
+  },
+  "tags": [
+    "imperfection",
+    "dirt",
+    "grease",
+    "prints"
+  ],
+  "texelDensity": 32768,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 134440438,
+      "gltfVersion": "2.0",
+      "tier": 0,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_0/vk1ibjnc_tier_0.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 36497567,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/vk1ibjnc_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 9233230,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/vk1ibjnc_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 2396527,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/vk1ibjnc_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}
